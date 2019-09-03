@@ -15,6 +15,14 @@ defaults:
     values:
       layout: "post"
 
+social_media: 
+  linkedin: thammuio
+  facebook: thammuio
+  twitter: thammuio
+  instagram: thammuio
+  medium: thammuio
+  website: https://thammuio.com
+
 topics:
   - name: Big Data
     web_url: https://github.com/topics/big-data
